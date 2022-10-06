@@ -27,14 +27,6 @@ Blog.init(
       type: DataTypes.STRING,
       allowNull: false,
     },
-    gallery_id: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-      references: {
-        model: 'user',
-        key: 'id',
-      },
-    },
   },
   {
     sequelize,
