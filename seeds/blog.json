@@ -1,0 +1,30 @@
+[
+    {
+        "blog_name": "blog 1",
+        "blog_desc": "blog 1",
+        "blog_links": "blog 1",
+        "related_topics": "blog 1"
+
+    },
+    {
+        "blog_name": "blog 2",
+        "blog_desc": "blog 2",
+        "blog_links": "blog 2",
+        "related_topics": "blog 2"
+
+    },
+    {
+        "blog_name": "blog 3",
+        "blog_desc": "blog 3",
+        "blog_links": "blog 3",
+        "related_topics": "blog 3"
+
+    },
+    {
+        "blog_name": "blog 4",
+        "blog_desc": "blog 4",
+        "blog_links": "blog 4",
+        "related_topics": "blog 4"
+
+    }
+]
